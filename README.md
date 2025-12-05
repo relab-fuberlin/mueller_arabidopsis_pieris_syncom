@@ -114,5 +114,6 @@ Figures and processed outputs will be saved automatically into the `output/` dir
 
 If you use this repository, please cite:
 
-> Add Publication link 
-> Add Zenodo link
+> Add Publication link
+
+> Müller, M., Huve, M. A. P., Kunzler, M., Remus-Emsermann, M., Schlechter, R., & Paniagua Voirol, L. R. (2025). Gnotobiotic Arabidopsis–Pieris brassicae–Microbiota System Dataset [Data set]. Zenodo. https://doi.org/10.5281/zenodo.17822324
