@@ -1,20 +1,13 @@
 <p align="left">
-
 <!-- Zenodo DOI badge -->
-
 <a href="https://doi.org/INSERT_DOI_HERE"> <img src="https://img.shields.io/badge/DOI-pending-blue.svg" alt="DOI"/> </a>
-
 <!-- License badge -->
-
 <a href="https://github.com/USERNAME/REPO/blob/main/LICENSE"> <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License: MIT"/> </a>
-
 <!-- Built with R -->
-
 <img src="https://img.shields.io/badge/R-%3E%3D%204.3.2-blue.svg" alt="R &gt;=4.3"/>
-
 </p>
 
-# From the leaf to the gut and back again: the fate and influence of phyllosphere bacteria in a gnotobiotic *Arabidopsis* -- *Pieris brassicae* system
+# From the leaf to the gut and back again: the fate and influence of phyllosphere bacteria in a gnotobiotic *Arabidopsis* - *Pieris brassicae* system
 
 Analysis code and documentation for the manuscript on leaf-associated synthetic microbial communities shaping *Pieris brassicae* herbivory outcomes.
 
