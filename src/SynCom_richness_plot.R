@@ -147,8 +147,14 @@ plt_figureS4 <-
 
 # Output ------------------------------------------------------------------
 
-ggsave(plot = plt_figure3,
-       here("output", "Figure3.eps"), dpi = 300, width = 12, height = 3.5)
+mapply(function(x) 
+  ggsave(x, 
+         plot = plt_figure3, 
+         dpi = 300, width = 12, height = 3.5),
+  x = c(here("output", "Figure3.png"), here("output", "Figure3.eps")))
 
-ggsave(plot = plt_figureS4,
-       here("output", "FigureS4.eps"), dpi = 300, width = 12, height = 3)
+mapply(function(x) 
+  ggsave(x, 
+         plot = plt_figureS4, 
+         dpi = 300, width = 12, height = 3.5),
+  x = c(here("output", "FigureS4.png"), here("output", "FigureS4.eps")))
